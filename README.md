@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  TypeScript, o início
+  TypeScript, o início...
 </h3>
 
-<p align="center">Brincando um pouco com Typescript.</p>
+<p>Brincando um pouco com Typescript.</p>
 
 ## ✋🏻 Pré-requisitos
 
