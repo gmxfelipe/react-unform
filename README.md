@@ -6,7 +6,7 @@
   TypeScript, o início
 </h3>
 
-<p align="center">Nesse vídeo eu quero desmistificar algumas opiniões sobre o TypeScript e mostrar como essa linguagem de programação tem ganhado tanto espaço no coração dos devs e também no mercado.</p>
+<p align="center">Brincando um pouco com Typescript.</p>
 
 ## ✋🏻 Pré-requisitos
 
